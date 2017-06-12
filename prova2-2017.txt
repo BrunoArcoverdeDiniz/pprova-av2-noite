@@ -1,8 +1,8 @@
 Unilasalle-RJ - AV2
-Aluno: (Coloque aqui o seu nome e matricula)
+Aluno: (Bruno Arcoverde Diniz 0050011654)
 Prova Av2 de Laboratorio de Sistemas Operacionais
 Professor: Alex Salgado
-1o. Semestre de 2017   Turno: ????
+1o. Semestre de 2017   Turno: Noite
 --------------------------------------------------
 1-Faça um script shell que receba um nome de arquivo como parametro e 
 responde se este arquivo existe ou não.
